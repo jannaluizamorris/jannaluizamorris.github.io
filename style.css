@@ -1,11 +1,11 @@
 body {
   background-color: AliceBlue;
-  font-family: "Times New Roman", Garamond;
+  font-family: "Times New Roman"; Garamond;
   margin: 6% 12%;
 }
 
 h2 {
-  color: DarkBlue;
+  color: DarkMagenta;
   text-transform: uppercase;
   border-top: 1px dashed DarkBlue;
   border-bottom: 1px dashed DarkBlue;
@@ -34,4 +34,9 @@ p {
 
 h4 {
   line-height: 0.1;
+  margin-left: 25px;
+}
+
+li {
+  margin-left: 15px;
 }
