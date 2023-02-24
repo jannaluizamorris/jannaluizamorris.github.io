@@ -1,1 +1,28 @@
+body {
+  background-color: AliceBlue;
+  font-family: "Times New Roman", Garamond;
+  margin: 6% 12%
+}
 
+h2 {
+  color: DarkBlue;
+  text-transform: uppercase;
+  border-top: 1px dashed DarkBlue;
+  border-bottom: 1px dashed DarkBlue;
+}
+
+header {
+  text-align: center; 
+}
+
+line1 {
+  text-transform: uppercase;
+}
+
+lines234 {
+  line-height: 0.25;
+}
+
+img {
+  width: 100%
+}
