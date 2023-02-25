@@ -1,15 +1,17 @@
 body {
-  background-color: AliceBlue;
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2qRuHEvzDUnm3ZtLDgW6hsRHg6pnNYQ9oLw&usqp=CAU');
   font-family: "Times New Roman"; Garamond;
   margin: 6% 12%;
 }
 
 h2 {
-  color: DarkMagenta;
+  color: DarkBlue;
   text-transform: uppercase;
-  border-top: 1px dashed DarkBlue;
-  border-bottom: 1px dashed DarkBlue;
+  border-top: 1px solid RoyalBlue;
+  border-bottom: 1px solid RoyalBlue;
+  border-width: 1.5px
 }
+
 
 header {
   text-align: center; 
@@ -40,3 +42,4 @@ h4 {
 li {
   margin-left: 15px;
 }
+
