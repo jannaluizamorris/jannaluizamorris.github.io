@@ -12,17 +12,12 @@ h2 {
   border-width: 1.5px
 }
 
-
-header {
-  text-align: center; 
-}
-
-line1 {
+h1 {
   text-transform: uppercase;
 }
 
-lines234 {
-  line-height: 0.25;
+header {
+  text-align: center; 
 }
 
 img {
@@ -43,3 +38,6 @@ li {
   margin-left: 15px;
 }
 
+p.personalprofile {
+  line-height: 1.2;
+}
